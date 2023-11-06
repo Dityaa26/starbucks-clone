@@ -32,7 +32,7 @@ const CreateAccount = () => {
       </p>
       <div className="flex px-20">
         {steps.map((step) => (
-          <div className="w-1/3 flex flex-col items-center px-4">
+          <div key={step.src} className="w-1/3 flex flex-col items-center px-4">
             <img
               src={step.src}
               alt=""

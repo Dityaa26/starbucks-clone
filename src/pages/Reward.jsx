@@ -1,6 +1,8 @@
-import React from 'react'
+import React from "react";
 import HeroSection from "../components/reward/HeroSection";
-import CreateAccount from '../components/reward/CreateAccount';
+import CreateAccount from "../components/reward/CreateAccount";
+import Carousel from "../components/reward/Carousel";
+import Perks from "../components/reward/Perks";
 
 const Reward = () => {
   return (
@@ -9,9 +11,11 @@ const Reward = () => {
         STARBUCKS REWARDS
       </div>
       <HeroSection />
-       <CreateAccount />
+      <CreateAccount />
+      <Carousel />
+      <Perks />
     </>
   );
-}
+};
 
-export default Reward
+export default Reward;
