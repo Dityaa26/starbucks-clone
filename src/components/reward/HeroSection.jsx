@@ -3,7 +3,7 @@ import React from 'react'
 const HeroSection = () => {
   return (
     <>
-      <div className="relative z-0 overflow-hidden py-24">
+      <div className="relative z-0 overflow-hidden py-24 mb-20">
         <img
           src="https://www.starbucks.com/weblx/images/rewards/hero/xl-hero-desktop_2021.png"
           alt=""
