@@ -26,7 +26,7 @@ const steps = [
 ];
 
 const Perks = () => {
-  return <Steps heading={heading} subheading={subheading} steps={steps} />;
+  return <Steps heading={heading} subheading={subheading} steps={steps} imgSize='w-24' />;
 }
 
 export default Perks

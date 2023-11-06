@@ -6,7 +6,7 @@ const links = ["MENU", "REWARD", "GIFT CARDS"];
 const Header = () => {
   return (
     <>
-      <div className="flex justify-between h-full z-50 bg-white py-6 px-10">
+      <div className="flex justify-between drop-shadow shadow-md h-full z-50 bg-white py-6 px-10">
         <div className="flex items-center">
           <img
             src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png"
@@ -15,7 +15,7 @@ const Header = () => {
           />
           <NavLink
             to="/menu"
-            className={({isActive}) =>
+            className={({ isActive }) =>
               `font-bold cursor-pointer hover:text-[#00754a] mr-6  decoration-[6px] ${
                 isActive
                   ? "underline text-[#00754a] underline-offset-[37px]"
@@ -27,7 +27,7 @@ const Header = () => {
           </NavLink>
           <NavLink
             to="/rewards"
-            className={({isActive}) =>
+            className={({ isActive }) =>
               `font-bold cursor-pointer hover:text-[#00754a] mr-6  decoration-[6px] ${
                 isActive
                   ? "underline text-[#00754a] underline-offset-[37px]"
@@ -39,7 +39,7 @@ const Header = () => {
           </NavLink>
           <NavLink
             to="/gift"
-            className={({isActive}) =>
+            className={({ isActive }) =>
               `font-bold cursor-pointer hover:text-[#00754a] mr-6  decoration-[6px] ${
                 isActive
                   ? "underline text-[#00754a] underline-offset-[37px]"
@@ -62,7 +62,6 @@ const Header = () => {
           </button>
         </div>
       </div>
-      
     </>
   );
 }

@@ -1,4 +1,9 @@
 import React from 'react'
+import Steps from './Steps';
+
+
+const heading = "Getting started is easy";
+const subheading = " Earn Stars and get rewarded in a few easy steps";
 
 const steps = [
   {
@@ -23,29 +28,11 @@ const steps = [
 
 const CreateAccount = () => {
   return (
-    <div className="my-20">
-      <h1 className="text-center text-3xl font-semibold mb-6 text-[rgba(0,0,0,.9)]">
-        Getting started is easy
-      </h1>
-      <p className="text-center mb-10 font-semibold text-[rgba(0,0,0,.8)]">
-        Earn Stars and get rewarded in a few easy steps
-      </p>
-      <div className="flex px-20">
-        {steps.map((step) => (
-          <div key={step.src} className="w-1/3 flex flex-col items-center px-4">
-            <img
-              src={step.src}
-              alt=""
-              className="w-12"
-            />
-            <h1 className="text-xl font-semibold mt-6">{step.title}</h1>
-            <p className="text-center mb-10 mt-6 font-semibold text-[rgba(0,0,0,.8)]">
-              {step.description}
-            </p>
-          </div>
-        ))}
-      </div>
-    </div>
+    <Steps
+      heading={heading}
+      subheading={subheading}
+      steps={steps}
+    />
   );
 }
 

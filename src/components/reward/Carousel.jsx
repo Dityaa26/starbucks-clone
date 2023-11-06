@@ -72,7 +72,7 @@ const Carousel = () => {
               onClick={() => setSelet(btn.id)}
             >
               {btn.title}
-              <span className="text-xs text-yellow-500">★</span>
+              <span className="text-sm text-yellow-500">★</span>
             </button>
           ))}
         </div>

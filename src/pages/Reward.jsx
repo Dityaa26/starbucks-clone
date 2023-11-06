@@ -3,6 +3,7 @@ import HeroSection from "../components/reward/HeroSection";
 import CreateAccount from "../components/reward/CreateAccount";
 import Carousel from "../components/reward/Carousel";
 import Perks from "../components/reward/Perks";
+import PaymentMethods from "../components/reward/PaymentMethods";
 
 const Reward = () => {
   return (
@@ -14,6 +15,7 @@ const Reward = () => {
       <CreateAccount />
       <Carousel />
       <Perks />
+      <PaymentMethods />
     </>
   );
 };
