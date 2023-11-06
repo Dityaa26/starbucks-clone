@@ -4,6 +4,7 @@ import CreateAccount from "../components/reward/CreateAccount";
 import Carousel from "../components/reward/Carousel";
 import Perks from "../components/reward/Perks";
 import PaymentMethods from "../components/reward/PaymentMethods";
+import RewardBanner from "../components/reward/RewardBanner";
 
 const Reward = () => {
   return (
@@ -16,6 +17,7 @@ const Reward = () => {
       <Carousel />
       <Perks />
       <PaymentMethods />
+      <RewardBanner />
     </>
   );
 };

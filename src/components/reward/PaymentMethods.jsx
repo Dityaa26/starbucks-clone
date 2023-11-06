@@ -19,7 +19,7 @@ const items = [
     ],
   },
   {
-    title: "2★ per dollar",
+    title: "2 ★ per dollar",
     description: "Add funds in the app",
     options: [
       {
@@ -40,7 +40,7 @@ const items = [
 
 const PaymentMethods = () => {
   return (
-    <div className="my-20 bg-[rgba(0,0,0,.05)] pt-12">
+    <div className="mt-20 bg-[rgba(0,0,0,.05)] pt-12">
       <h1 className="text-center text-3xl font-semibold mb-6 text-[rgba(0,0,0,.9)]">
         Cash or card, you earn Stars
       </h1>
