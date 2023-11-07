@@ -1,18 +1,19 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 
-const links = ["MENU", "REWARD", "GIFT CARDS"];
 
 const Header = () => {
   return (
     <>
       <div className="flex justify-between drop-shadow shadow-md h-full z-50 bg-white py-6 px-10">
         <div className="flex items-center">
-          <img
-            src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png"
-            alt="logo"
-            className="w-12 mr-10"
-          />
+          <Link to='/'>
+            <img
+              src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png"
+              alt="logo"
+              className="w-12 mr-10"
+            />
+          </Link>
           <NavLink
             to="/menu"
             className={({ isActive }) =>
