@@ -20,7 +20,7 @@ const RewardBanner = () => {
           alt="logo"
           className="w-52"
         />
-        <p className="text-center mb-10 w-2/5 font-semibold text-[rgba(0,0,0,.8)]">
+        <p className="text-center mt-10 mb-4 w-2/5 font-semibold text-[rgba(0,0,0,.8)]">
           Link your Delta SkyMiles® and Starbucks® Rewards accounts to earn 1
           mile per $1* spent at Starbucks and double Stars on Delta travel days.
         </p>

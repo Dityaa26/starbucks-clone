@@ -7,6 +7,9 @@ import Reward from './pages/Reward.jsx';
 import Error from './pages/Error.jsx';
 import Menu from './pages/Menu.jsx';
 import GiftCards from './pages/GiftCards.jsx';
+import MainSection from './components/menu/MainSection.jsx';
+import ItemPage from './components/menu/ItemPage.jsx';
+import Intro from './pages/Intro.jsx';
 
 const appRouter = createBrowserRouter([
   {
@@ -14,19 +17,33 @@ const appRouter = createBrowserRouter([
     element: <App />,
     children: [
       {
-        path: '/menu',
-        element: <Menu />,
+        path: '/',
+        element: <Intro />
       },
       {
-        path: '/rewards',
+        path: "/menu",
+        element: <Menu />,
+        children: [
+          {
+            path: "/menu",
+            element: <MainSection />,
+          },
+          {
+            path: `/menu/:category/:id`,
+            element: <ItemPage />,
+          },
+        ],
+      },
+      {
+        path: "/rewards",
         element: <Reward />,
       },
       {
-        path: '/gift',
+        path: "/gift",
         element: <GiftCards />,
       },
     ],
-    errorElement: <Error />
+    errorElement: <Error />,
   },
 ]);
 
