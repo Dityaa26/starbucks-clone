@@ -13,13 +13,11 @@ const ItemPage = () => {
   const products = items[0].children?.filter((item) => item.id === id);
   const product = products[0];
 
-
-
   // console.log(category , id)
   // console.log(items)
-  console.log("product====>", product);
+  // console.log("product====>", product);
   return (
-    <div className="ml-32">
+    <div className="ml-24">
       <p className="mt-14 font-semibold text-slate-400">
         Menu / <span className="text-slate-600">{product.name}</span>
       </p>
@@ -40,7 +38,7 @@ const ItemPage = () => {
                 <img
                   src={prod?.assets?.masterImage?.uri}
                   alt=""
-                  className="w-32 rounded-full"
+                  className="w-32 rounded-full mb-4"
                 />
                 <p className="text-md text-center font-semibold text-[rgba(0,0,0,.9)]">
                   {prod.name}
@@ -60,7 +58,7 @@ const ItemPage = () => {
             <img
               src={prod?.assets?.masterImage?.uri}
               alt="photo"
-              className="w-32 rounded-full"
+              className="w-32 rounded-full mb-4"
             />
             <p className="text-md text-center font-semibold text-[rgba(0,0,0,.9)]">
               {prod.name}

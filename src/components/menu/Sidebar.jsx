@@ -10,7 +10,7 @@ const Sidebar = () => {
   return !menuCard ? (
     <div className="bg-gray-100 ml-32 m-10 rounded-lg p-20 w-2/12 h-screen"></div>
   ) : (
-    <div className="ml-32">
+    <div className="ml-32 min-w-fit">
       {menuCard.map((menu) => (
         <div key={menu.id}>
           <h1 className="text-xl mt-12 font-semibold mb-6 text-[rgba(0,0,0,.9)]">
