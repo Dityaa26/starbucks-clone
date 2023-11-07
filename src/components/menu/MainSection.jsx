@@ -1,12 +1,9 @@
-import React from 'react'
+import React, { useMemo, useState } from 'react'
 import useMenuCard from '../../hooks/useMenuCard'
 import { Link } from 'react-router-dom';
 
 const MainSection = () => {
   const menuCard = useMenuCard();
-// console.log(menuCard)
-
-
 
   return !menuCard ? (
     <div className="bg-gray-100 m-10 rounded-lg p-20 w-10/12 h-screen"></div>
