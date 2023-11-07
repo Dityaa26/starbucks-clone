@@ -10,7 +10,6 @@ function App() {
 
   return (
     <>
-      {/* <h1 className="text-rose-600 font-bold text-5xl">Hello world</h1> */}
       <Header />
         <Outlet />
       <Footer />

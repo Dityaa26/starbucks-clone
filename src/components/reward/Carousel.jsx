@@ -5,7 +5,7 @@ import {carouselItems} from "../utils/constants";
 
 const Carousel = () => {
   const [select, setSelet] = useState(0);
-  console.log(select);
+  // console.log(select);
   return (
     <div>
       <div className="bg-[#d3e8e154] drop-shadow shadow-md flex flex-col items-center pt-16 text-3xl text-[rgba(0,0,0,.9)] font-semibold">

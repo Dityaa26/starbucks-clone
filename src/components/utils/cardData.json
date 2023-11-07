@@ -1,0 +1,1166 @@
+{
+  "categories": [
+    {
+      "urn": "featured",
+      "names": {
+        "long": "Featured",
+        "short": "Featured"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Glowing Diwali",
+            "description": "Wishing you a Glowing Diwali is written in multi-colored letters and arched across a navy blue background, surrounded by colorful stars and bursts of light. ",
+            "productNumber": "00000201",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/GlowingDiwaliFY24.png/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Always Grateful",
+            "description": "Always Grateful is written in white block letters and centered against a green camo background.",
+            "productNumber": "00000175",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/AlwaysGratefulFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "For All You Do",
+            "description": "Thank You for All You Do is written in white with six small white stars below the words on a dark green background covered in light green stars.",
+            "productNumber": "00000176",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy21/ForAllYouDoFY21.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Season's Treatings",
+            "description": "Two hands holding festive Starbucks beverages toast each other against a light blue and white snowflake background, with the words “Season’s Treatings” written in green letters weaving across the center. ",
+            "productNumber": "00000266",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/SeasonsTreatingsFY24.png/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Holiday Thank You",
+            "description": "Thank You is written in wavy white capital letters across the center of this card against a patterned background of dark red, dark green and dark pink swirls. ",
+            "productNumber": "00000222",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/HolidayThankYouFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Big Thank You",
+            "description": "A Big Thank You with the words A Big written in small pale blue letters and arched over the top of the larger words Thank You.",
+            "productNumber": "00000040",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/BigThankYouFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Great Work Deserves Coffee",
+            "description": "Two hands meet in a high five against a background with Great Work arched over the top of the hands and Deserves Coffee across the bottom. ",
+            "productNumber": "00000011",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/GreatWorkDeservesCoffeeFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Good Vibes",
+            "description": "A rainbow stretches across with a white cloud at each end against a green background, with the words Sending Good Vibes under the rainbow.",
+            "productNumber": "00000042",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/GoodVibesFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Birthday Cake",
+            "description": "A bright pink frosted cake sits on a white plate, with lit candles on top and one piece missing, with the words Happy Birthday written in white lettering across the size of the cake. ",
+            "productNumber": "00000226",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/BirthdayCakeFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Birth Yay",
+            "description": "It's Your Birth-Yay is in white letters over a yellow birthday cake with a slice missing that has red candles against a blue background.",
+            "productNumber": "00000044",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/BirthYayFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "You're Just The Best",
+            "description": "The words You’re Best are written in white block letters at the top and bottom of this card, with the word “Just” written in white outline centered between You’re and Best on a red background with white stars and paint splatters.",
+            "productNumber": "00000245",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/JustTheBestFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Holiday Celebration",
+            "description": "Three hands holding Starbucks beverage cups meet in the center toasting each other, set against a light green background covered in strands of red, white and green holiday garland. ",
+            "productNumber": "00000261",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/HolidayCelebrationFY24.png/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Woohoo",
+            "description": "“Woohoo” is written in white centered against blue and surrounded by dots, stars and starbursts in shades of green, yellow and pink.",
+            "productNumber": "00000071",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/WoohooFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Winter Snowman",
+            "description": "A smiling snowman wearing a red hat and scarf stands next to an evergreen tree holding a red bird who is decorating the tree with red and green ornament balls. ",
+            "productNumber": "00000248",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/WinterSnowmanFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Starbucks Blocks",
+            "description": "The word Starbucks is written in bold capital letters inside green and red blocks that are stacked top to bottom on this card.",
+            "productNumber": "00000241",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/WordmarkBlocksFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Holiday Siren",
+            "description": "The green Starbucks Siren logo is set against a festive background that is covered red, green, pink and white lines, boxes and stars. ",
+            "productNumber": "00000244",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/HolidaySirenFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "red-cup",
+      "names": {
+        "long": "Red Cup",
+        "short": "Red Cup"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Red Cup Tree",
+            "description": "A tree made of red Starbucks cups stands in a snowy landscape surrounded by snow-topped evergreen trees, with a snowman and rabbits observing a person in winter clothes putting the finishing touches on the tree. ",
+            "productNumber": "00000264",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/RedCupTreeFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Red Cup Penguin",
+            "description": "A cute penguin wearing red earmuffs and a red and white striped scarf sits on snow next to an open hole in the snow holding a fishing pole with a red Starbucks cup dangling from the end. ",
+            "productNumber": "00000210",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/RedCupPenguinFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Festive Feeling",
+            "description": "The torso of a person wearing a green holiday sweater is centered against a light blue background, with two mittened hands holding a Starbucks beverage cup and That Festive Feeling written in wavy block letters across the bottom.",
+            "productNumber": "00000217",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/FestiveFeelingFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Holiday Celebration",
+            "description": "Two hands holding festive Starbucks beverages toast each other against a light green background covered in white stars.",
+            "productNumber": "00000212",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/CelebrationHolidayFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Red Cup Sled",
+            "description": "A red Starbucks cup with a white lid is set on green runners and is sledding down a white snowy hill against a light green background, with a smiling person wearing a blue cap, dark pink jacket and blue pants riding atop the red cup.",
+            "productNumber": "00000214",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/RedCupSledFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "holiday",
+      "names": {
+        "long": "Holiday",
+        "short": "Holiday"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Happy Holidays",
+            "description": "The words Happy Holidays are written in white letters and centered on a dark blue background that is covered in white, purple and blue snowflakes and stars. ",
+            "productNumber": "00000221",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/HappyHolidaysFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Winter Snowman",
+            "description": "A smiling snowman wearing a red hat and scarf stands next to an evergreen tree holding a red bird who is decorating the tree with red and green ornament balls. ",
+            "productNumber": "00000248",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/WinterSnowmanFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Fa La La Lattes",
+            "description": "A bright green cup holding a foamy latte sits inside a gift box centered against a red background covered in white sparkles, with Fa La La Lattes written in silver letters bouncing across the top of the card.",
+            "productNumber": "00000255",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/FaLaLaLattesFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Desert Snowman",
+            "description": "A smiling snowman and a red bird are decorating a green cactus with green and pink garland against a red desert landscape and rolling hills. ",
+            "productNumber": "00000265",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/DesertSnowmanFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "veterans-day",
+      "names": {
+        "long": "Veterans Day | 11/11",
+        "short": "Veterans Day | 11/11"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Always Grateful",
+            "description": "Always Grateful is written in white block letters and centered against a green camo background.",
+            "productNumber": "00000175",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/AlwaysGratefulFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "For All You Do",
+            "description": "Thank You for All You Do is written in white with six small white stars below the words on a dark green background covered in light green stars.",
+            "productNumber": "00000176",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy21/ForAllYouDoFY21.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "You Keep Us Going",
+            "description": "You Keep Us Going is written in blue block letters stacked on a diagonal striped gradient background in red, white and blue. ",
+            "productNumber": "00000177",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy21/KeepUsGoingFY21.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Veterans Day",
+            "description": "A waving American Flag is centered on a light blue background and encircled by the words \"Service\", \"Pride\", and \"Gratitude\" with stars in between each word. ",
+            "productNumber": "00000178",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy20/VeteransDayFY20.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "diwali",
+      "names": {
+        "long": "Diwali",
+        "short": "Diwali"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Glowing Diwali",
+            "description": "Wishing you a Glowing Diwali is written in multi-colored letters and arched across a navy blue background, surrounded by colorful stars and bursts of light. ",
+            "productNumber": "00000201",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/GlowingDiwaliFY24.png/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Love Light Latte",
+            "description": "This card celebrates Diwali with two diya lamps alongside muffins and mithai, with a steaming latte cup centered against an ombre orange background. Love, Light and Latte are written in white block letters across the bottom ",
+            "productNumber": "00000203",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/LoveLightLatte.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Happy Diwali",
+            "description": "This card proclaims Happy Diwali in bold white letters centered against a bright red background, surrounded by eight diyas, multiple rangoli and white stars.",
+            "productNumber": "00000202",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/DiwaliFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "birthday",
+      "names": {
+        "long": "Birthday",
+        "short": "Birthday"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Birthday Cake",
+            "description": "A bright pink frosted cake sits on a white plate, with lit candles on top and one piece missing, with the words Happy Birthday written in white lettering across the size of the cake. ",
+            "productNumber": "00000226",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/BirthdayCakeFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Party Birthday",
+            "description": "Mirror ball with blue, green and purple squares hangs in the center of this card against a dark blue background.",
+            "productNumber": "00000001",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/PartyBirthdayFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Birth Yay",
+            "description": "It's Your Birth-Yay is in white letters over a yellow birthday cake with a slice missing that has red candles against a blue background.",
+            "productNumber": "00000044",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/BirthYayFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Birthday Treats",
+            "description": "A slice of cake is surrounded by doughnuts, cupcakes, and a Starbucks drink. On each treat is a lit birthday candle.",
+            "productNumber": "00000077",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy21/BirthdayTreatsFY21.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Yay Birthday",
+            "description": "This card boldly proclaims Yay It's Your Birthday in green block letters down the center against a pink background covered in confetti.",
+            "productNumber": "00000049",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/YayBirthdayUSFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Season's Treatings",
+            "description": "Two hands holding festive Starbucks beverages toast each other against a light blue and white snowflake background, with the words “Season’s Treatings” written in green letters weaving across the center. ",
+            "productNumber": "00000266",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/SeasonsTreatingsFY24.png/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "thank-you",
+      "names": {
+        "long": "Thank You",
+        "short": "Thank You"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Holiday Thank You",
+            "description": "Thank You is written in wavy white capital letters across the center of this card against a patterned background of dark red, dark green and dark pink swirls. ",
+            "productNumber": "00000222",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/HolidayThankYouFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Thank You Blocks",
+            "description": "The word Thank is written in bold letters inside colored boxes stacked to the left and the word You is written in bold letters inside colored boxes stacked on the right.",
+            "productNumber": "00000224",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/ThankYouBlocksFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Big Thank You",
+            "description": "A Big Thank You with the words A Big written in small pale blue letters and arched over the top of the larger words Thank You.",
+            "productNumber": "00000040",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/BigThankYouFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Thank You Treat",
+            "description": "White and purple coffee cup sits among green coffee cups as the words My Treat in wavy white letters rise from it like steam.",
+            "productNumber": "00000016",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/ThankYouTreatFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "This One's On Me",
+            "description": "This One's on Me is written above a head with blue hair, an iced beverage on top of the blue hair and two hands holding Starbucks cups.\n\n",
+            "productNumber": "00000101",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy20/ThisOnesOnMeFY20.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "appreciation",
+      "names": {
+        "long": "Appreciation",
+        "short": "Appreciation"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "So Appreciated",
+            "description": "A large wide multi-colored ball ornament with the words You Are So Appreciated written in white and yellow letters stacked in the middle of it is centered against a bright green background.",
+            "productNumber": "00000229",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/SoAppreciatedFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "You're Tree-mendous",
+            "description": " You're Tree-mendous iis written n red block letters, centered on a light blue sky background surrounded by white stars above an assortment of holiday trees decorated with ribbons, dots and stars.\r\n",
+            "productNumber": "00000247",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/TreemendousFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "You're Just The Best",
+            "description": "The words You’re Best are written in white block letters at the top and bottom of this card, with the word “Just” written in white outline centered between You’re and Best on a red background with white stars and paint splatters.",
+            "productNumber": "00000245",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/JustTheBestFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "You Amaze Me",
+            "description": "You Amaze Me is centered against a background surrounded by yellow and white shooting stars with You and Me below the word Amaze.",
+            "productNumber": "00000013",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/YouAmazeMeFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "celebration",
+      "names": {
+        "long": "Celebration",
+        "short": "Celebration"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Holiday Celebration",
+            "description": "Three hands holding Starbucks beverage cups meet in the center toasting each other, set against a light green background covered in strands of red, white and green holiday garland. ",
+            "productNumber": "00000261",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/HolidayCelebrationFY24.png/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Woohoo",
+            "description": "“Woohoo” is written in white centered against blue and surrounded by dots, stars and starbursts in shades of green, yellow and pink.",
+            "productNumber": "00000071",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/WoohooFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Keep Crushin' It",
+            "description": "Keep Crushin’ It, written in white and shadowed in red, blue and orange, are exploding out of a blue background and surrounded by stars.",
+            "productNumber": "00000052",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/KeepCrushinItFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "You're Going Places",
+            "description": "A rainbow is against a green swirl that is covered in yellow and white stars, with You’re Going Places above the rainbow.",
+            "productNumber": "00000055",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/GoingPlacesFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "thanksgiving",
+      "names": {
+        "long": "Thanksgiving",
+        "short": "Thanksgiving"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Thanksgiving",
+            "description": "La scène de cette carte est une vue en plongée d’une table dressée pour les Fêtes. Sur la table se trouvent quatre assiettes, ainsi que des bols de service et une tarte au centre, avec des mains tendues pour se servir.",
+            "productNumber": "00000194",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/ThanksgivingFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Holiday Dinner",
+            "description": "Centered on this card is a serving platter holding a ham, being placed onto a blue tabletop by a figure in a blue apron who is standing against a red background. Surrounding the ham on the table are plates holding other food items.",
+            "productNumber": "00000249",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/HolidayDinnerFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Gravy Goals",
+            "description": "The hands of two people holding gravy boats reach out to toast each other from opposite sides of the card underneath the words Gravy Goals, written in dark purple letters against a dark yellow background.",
+            "productNumber": "00000190",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/GravyGoalsFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "encouragement",
+      "names": {
+        "long": "Encouragement",
+        "short": "Encouragement"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Extra Proud Of You",
+            "description": "Extra Proud of You is centered against a purple and blue ombre-style background and surrounded by yellow stars and diamonds.",
+            "productNumber": "00000067",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/ExtraProudFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Strong Like Coffee",
+            "description": "You're Strong Like Coffee are written in white letters and arched and centered on a pink, red, purple and light blue star design background.",
+            "productNumber": "00000090",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy21/StrongLikeCoffeeFY21.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Good Vibes",
+            "description": "A rainbow stretches across with a white cloud at each end against a green background, with the words Sending Good Vibes under the rainbow.",
+            "productNumber": "00000042",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/GoodVibesFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "When In Doubt Coffee",
+            "description": "Two hands reaching from each side to toast holding Starbucks beverage cups with When In Doubt Coffee in red and below the hands.",
+            "productNumber": "00000065",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy22/WhenInDoubtCoffeeFY22.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "affection",
+      "names": {
+        "long": "Affection",
+        "short": "Affection"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Gingerbread Friends",
+            "description": "Two brown decorated gingerbread people greet each other outside of a brown decorated gingerbread house on a snowy landscape against a light green background. ",
+            "productNumber": "00000267",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/GingerbreadFriendsFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Such A Gift",
+            "description": "Six holiday packages of various sizes wrapped in different shades of pink, red and gray gift wrap are set against a dark purple background, with the words You Are Such A Gift written in white lettering across five of the boxes.",
+            "productNumber": "00000235",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/SuchAGiftFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Cheers My Deer",
+            "description": "Two smiling reindeer with red antlers sit toasting each other with a white ceramic Starbucks mug dangling from an antler and the words Cheers My Dear written in white letters centered between them.",
+            "productNumber": "00000233",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/CheersMyDeerFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Warm My Heart",
+            "description": "Two hands hold a cup with steam in the shape of hearts with You Warm My Heart written in pink letters on either side of the cup.",
+            "productNumber": "00000030",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/WarmMyHeartFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Friends Buy Friends Coffee",
+            "description": "A purple hand is holding a Starbucks iced coffee with the words Friends Buy Friends Coffee stacked on top of each other.",
+            "productNumber": "00000098",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy20/FriendsBuyCoffeeFY20.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "workplace",
+      "names": {
+        "long": "Workplace",
+        "short": "Workplace"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Holiday MVP",
+            "description": "Letters designed to look like wrapped holiday packages spell out M-V-P across the center of the card against a blue and white background with white stars and word Holiday written in small letters arched over the M and V.",
+            "productNumber": "00000237",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/HolidayMVPFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Could Do It Without You",
+            "description": "Couldn’t Do It Without You is written in bold white letters on festive red and blue ribbons decorated with green and white stars that criss cross the card against a green background covered with sponge painted blue ornament balls. ",
+            "productNumber": "00000239",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/CouldntDoItFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Hard Work Noticed",
+            "description": "Set against a sparkle light blue background, In white font is \"Your Hard Work\" and in green script Noticed is in the bottom left corner.",
+            "productNumber": "00000088",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy21/HardWorkNoticedFY21.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Great Work Deserves Coffee",
+            "description": "Two hands meet in a high five against a background with Great Work arched over the top of the hands and Deserves Coffee across the bottom. ",
+            "productNumber": "00000011",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/GreatWorkDeservesCoffeeFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "urn": "anytime",
+      "names": {
+        "long": "Anytime",
+        "short": "Anytime"
+      },
+      "cards": {
+        "giftCards": [
+          {
+            "name": "Starbucks Blocks",
+            "description": "The word Starbucks is written in bold capital letters inside green and red blocks that are stacked top to bottom on this card.",
+            "productNumber": "00000241",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/WordmarkBlocksFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Holiday Siren",
+            "description": "The green Starbucks Siren logo is set against a festive background that is covered red, green, pink and white lines, boxes and stars. ",
+            "productNumber": "00000244",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy24/HolidaySirenFY24.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Heritage Sirens",
+            "description": "Three Starbucks Siren logos are shown, including the brown Siren, the black and white Siren and the free-floating Siren.",
+            "productNumber": "00000035",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/HeritageMultipackFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Starbucks Brand",
+            "description": "The word Starbucks is written in dark green bold letters against a pastel background of different shades of green.",
+            "productNumber": "00000021",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy23/BrandForwardFY23.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          },
+          {
+            "name": "Starbucks Siren",
+            "description": "A close up of a white Siren covers the left half of this Starbucks green card.",
+            "productNumber": "00000104",
+            "published": true,
+            "assets": [
+              {
+                "uri": "https://globalassets.starbucks.com/digitalassets/cards/fy20/BrailleFY20.jpg/r/largeAndroid_474-299.jpg",
+                "type": "EGiftLargeAndroid",
+                "width": 0,
+                "height": 0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

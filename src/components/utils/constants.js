@@ -96,3 +96,4 @@ export const perksSteps = [
       "Earn Stars even quicker with Bonus Star challenges, Double Star Days and exciting games.",
   },
 ];
+

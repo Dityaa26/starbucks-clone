@@ -6,7 +6,7 @@ const HeroSection = () => {
       <div className="relative z-0 overflow-hidden py-24 mb-20">
         <img
           src="https://www.starbucks.com/weblx/images/rewards/hero/xl-hero-desktop_2021.png"
-          alt=""
+          alt="Banner"
           className="bg-[#d4e9e2] scale-[1.65]  overflow-hidden"
         />
         <div className="absolute mx-10 w-2/6 text-left top-1/4">

@@ -10,6 +10,7 @@ import GiftCards from './pages/GiftCards.jsx';
 import MainSection from './components/menu/MainSection.jsx';
 import ItemPage from './components/menu/ItemPage.jsx';
 import Intro from './pages/Intro.jsx';
+import GiftCardList from './components/gift-card/GiftCardList.jsx';
 
 const appRouter = createBrowserRouter([
   {

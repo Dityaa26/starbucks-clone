@@ -49,7 +49,7 @@ const PaymentMethods = () => {
         Those Stars add up to (really delicious) Rewards.
       </p>
       {items.map((item) => (
-        <div className="mx-10 mt-10 border-b-[1px] flex border-gray-300">
+        <div key={item.title} className="mx-10 mt-10 border-b-[1px] flex border-gray-300">
           <div className="w-1/4 text-left">
             <h1 className=" text-2xl font-semibold mb-2 text-[rgba(0,0,0,.9)]">
               {item.title}
@@ -59,7 +59,7 @@ const PaymentMethods = () => {
             </p>
           </div>
           {item.options.map((option) => (
-            <div className="w-1/3 mr-2 text-left flex border-box">
+            <div key={option.src} className="w-1/3 mr-2 text-left flex border-box">
               <div className='mr-4'>
                 <img src={option.src} alt="logo" className='min-w-[165px]'/>
               </div>
